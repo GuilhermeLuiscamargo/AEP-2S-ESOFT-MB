@@ -14,6 +14,7 @@ Organizar e documentar as etapas de desenvolvimento do sistema;
 Elaborar fluxogramas e demais documentações necessárias;
 Desenvolver o sistema utilizando a linguagem C99;
 Aplicar os conhecimentos adquiridos durante o curso de Engenharia de Software.
+
 📅 Entregas
 
 Durante a vida útil deste repositório, serão realizadas duas entregas principais.
