@@ -26,6 +26,7 @@ Documentação do projeto;
 Definição do escopo;
 Fluxogramas;
 Estrutura e planejamento inicial do sistema.
+
 2ª Entrega — 13/11/2026
 
 Nesta etapa será entregue o sistema desenvolvido, juntamente com a documentação correspondente.
