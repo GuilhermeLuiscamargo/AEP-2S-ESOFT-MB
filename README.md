@@ -5,6 +5,17 @@ Este repositório foi criado como parte indispensável da Atividade de Estudo Pr
 
 O projeto tem como objetivo desenvolver e apresentar uma solução relacionada ao Programa Saúde na Escola (PSE), utilizando da carteira de verificação da situação vacinal para auxiliar no acompanhamento e na organização das informações relacionadas à vacinação.
 
+👥 Integrantes
+
+João Vitor
+https://github.com/Joaoov07
+
+Kaik Victtor
+https://github.com/kkvicttor
+
+Guilherme Luis Camargo Neto
+https://github.com/GuilhermeLuiscamargo
+
 🎯 Objetivos
 
 O projeto busca:
@@ -34,10 +45,6 @@ Nesta etapa será entregue o sistema desenvolvido, juntamente com a documentaç�
 
 O sistema será desenvolvido utilizando a linguagem C99, contemplando as funcionalidades definidas no escopo inicial do projeto.
 
-🛠️ Tecnologias
-Linguagem: C99
-Documentação: Markdown
-Controle de versão: Git / GitHub
-👨‍💻 Projeto Acadêmico
+
 
 Este projeto possui finalidade acadêmica e foi desenvolvido como parte das atividades do curso de Engenharia de Software — 2º semestre da UniCesumar.
