@@ -8,12 +8,15 @@ O projeto tem como objetivo desenvolver e apresentar uma solução relacionada a
 👥 Integrantes
 
 João Vitor
+
 https://github.com/Joaoov07
 
 Kaik Victtor
+
 https://github.com/kkvicttor
 
 Guilherme Luis Camargo Neto
+
 https://github.com/GuilhermeLuiscamargo
 
 🎯 Objetivos
